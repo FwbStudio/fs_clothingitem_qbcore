@@ -1,0 +1,1 @@
+# fs_clothingitem_qbcore
